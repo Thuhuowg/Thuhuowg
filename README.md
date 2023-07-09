@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thuhuowg
+- 👋 Hi, I’m @Thuhuowg, I wanna be website developer, and I start with php language!
 - 👀 I’m interested in smiling :))
 - 🌱 I’m currently learning in 21CN5 
 - You can reach me by email or social networks
